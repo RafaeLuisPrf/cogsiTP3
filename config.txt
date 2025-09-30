@@ -1,1 +1,1 @@
-Teste from the branch 2
+Test from feature conflict 3
